@@ -76,7 +76,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/Divicion"
         android:gravity="center"
-        android:text="Resultado"
+        android:text="Resultado:"
         android:textSize="25dp"
         tools:layout_editor_absoluteX="179dp"
         tools:layout_editor_absoluteY="366dp" />
